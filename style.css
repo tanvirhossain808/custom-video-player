@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+git add . git commit -m "creating the main brach"
+git branch -M main git remote add origin https: //github.com/tanvirhossain808/custom-video-player.git
+git push -u origin main
